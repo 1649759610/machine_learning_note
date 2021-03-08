@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [机器学习笔记](README.md)
 
 ## 数学知识
 
