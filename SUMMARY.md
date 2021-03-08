@@ -79,7 +79,7 @@
 ## 计算机视觉 <a id="computer_vision"></a>
 
 * [卷积算子](computer_vision/convolution_kernel.md)
-* [图像增广](computer_vision/tu-xiang-zeng-guang.md)
+* [图像增广](computer_vision/image_augmentation.md)
 * [卷积神经网络](computer_vision/untitled/README.md)
   * [卷积](computer_vision/untitled/juan-ji-1.md)
   * [池化](computer_vision/untitled/chi-hua.md)
