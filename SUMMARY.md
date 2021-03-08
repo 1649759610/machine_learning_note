@@ -33,7 +33,7 @@
   * [Chebyshev Distance](deep_learning/distances/chebyshev-distance.md)
   * [Minkowski Distance](deep_learning/distances/minkowski-distance.md)
 * [评估方式](deep_learning/metrics/README.md)
-  * [混淆矩阵](deep_learning/metrics/hun-xiao-ju-zhen.md)
+  * [混淆矩阵](deep_learning/metrics/confusion_matrix.md)
   * [AUC](deep_learning/metrics/auc.md)
   * [PR曲线](deep_learning/metrics/pr-qu-xian.md)
   * [召回率和精准率](deep_learning/metrics/zhao-hui-lv-he-jing-zhun-lv.md)
