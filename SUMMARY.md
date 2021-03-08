@@ -83,7 +83,7 @@
 * [卷积神经网络](computer_vision/convolution_network/README.md)
   * [卷积](computer_vision/convolution_network/convolution.md)
   * [池化](computer_vision/convolution_network/pooling.md)
-  * [卷积核](computer_vision/convolution_network/juan-ji-he.md)
+  * [卷积核](computer_vision/convolution_network/kernel.md)
   * [感受野](computer_vision/convolution_network/gan-shou-ye.md)
   * [Padding](computer_vision/convolution_network/padding.md)
   * [Stride](computer_vision/convolution_network/stride.md)
