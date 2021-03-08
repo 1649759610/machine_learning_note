@@ -13,7 +13,7 @@
 * [基础知识](machine_learning/basic_concepts/README.md)
   * [过拟合与欠拟合](machine_learning/basic_concepts/over_and_under_fitting.md)
   * [方差与偏差](machine_learning/basic_concepts/variance_and_bias.md)
-* [线性回归](machine_learning/xian-xing-hui-gui.md)
+* [线性回归](machine_learning/linear_regression.md)
 * [逻辑回归](machine_learning/luo-ji-hui-gui.md)
 * [softmax](machine_learning/softmax.md)
 * [奇异值分解](machine_learning/qi-yi-zhi-fen-jie.md)
