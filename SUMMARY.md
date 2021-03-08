@@ -36,7 +36,7 @@
   * [混淆矩阵](deep_learning/metrics/confusion_matrix.md)
   * [AUC](deep_learning/metrics/auc.md)
   * [PR曲线](deep_learning/metrics/pr_curve.md)
-  * [召回率和精准率](deep_learning/metrics/zhao-hui-lv-he-jing-zhun-lv.md)
+  * [召回率和精准率](deep_learning/metrics/recall_and_precision.md)
   * [F值](deep_learning/metrics/f-zhi.md)
   * [决定系数R2](deep_learning/metrics/jue-ding-xi-shu-r2.md)
   * [MSE](deep_learning/metrics/mse.md)
