@@ -17,7 +17,7 @@
 * [逻辑回归](machine_learning/logitstic.md)
 * [softmax](machine_learning/softmax.md)
 * [奇异值分解](machine_learning/svd.md)
-* [主成分分析](machine_learning/zhu-cheng-fen-fen-xi.md)
+* [主成分分析](machine_learning/pca.md)
 
 ## 深度学习基础 <a id="shen-du-xue-xi-ji-chu-1"></a>
 
