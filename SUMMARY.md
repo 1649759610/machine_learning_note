@@ -84,7 +84,7 @@
   * [卷积](computer_vision/convolution_network/convolution.md)
   * [池化](computer_vision/convolution_network/pooling.md)
   * [卷积核](computer_vision/convolution_network/kernel.md)
-  * [感受野](computer_vision/convolution_network/gan-shou-ye.md)
+  * [感受野](computer_vision/convolution_network/receptive_field.md)
   * [Padding](computer_vision/convolution_network/padding.md)
   * [Stride](computer_vision/convolution_network/stride.md)
 
