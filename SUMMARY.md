@@ -74,7 +74,7 @@
   * [正则化](deep_learning/model_tuning/regularization/README.md)
     * [L1Regularization](deep_learning/model_tuning/regularization/l1regularization.md)
     * [L2 Regularization](deep_learning/model_tuning/regularization/l2-regularization.md)
-  * [学习率](deep_learning/model_tuning/xue-xi-lv.md)
+  * [学习率](deep_learning/model_tuning/learning_rate.md)
 
 ## 计算机视觉
 
