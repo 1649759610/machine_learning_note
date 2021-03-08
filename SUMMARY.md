@@ -10,9 +10,9 @@
 
 ## 机器学习基础 <a id="machine_learning"></a>
 
-* [基础知识](machine_learning/ji-chu-zhi-shi/README.md)
-  * [过拟合与欠拟合](machine_learning/ji-chu-zhi-shi/guo-ni-he-yu-qian-ni-he.md)
-  * [方差与偏差](machine_learning/ji-chu-zhi-shi/fang-cha-yu-pian-cha.md)
+* [基础知识](machine_learning/basic_concepts/README.md)
+  * [过拟合与欠拟合](machine_learning/basic_concepts/guo-ni-he-yu-qian-ni-he.md)
+  * [方差与偏差](machine_learning/basic_concepts/fang-cha-yu-pian-cha.md)
 * [线性回归](machine_learning/xian-xing-hui-gui.md)
 * [逻辑回归](machine_learning/luo-ji-hui-gui.md)
 * [softmax](machine_learning/softmax.md)
