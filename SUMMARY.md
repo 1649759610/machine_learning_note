@@ -49,7 +49,7 @@
   * [轮廓系数](deep_learning/metrics/silhouette_coefficient.md)
 * [梯度下降算法](deep_learning/gradient_descent/README.md)
   * [梯度下降算法](deep_learning/gradient_descent/ti-du-xia-jiang-suan-fa.md)
-  * [随机梯度下降](deep_learning/gradient_descent/sui-ji-ti-du-xia-jiang.md)
+  * [随机梯度下降](deep_learning/gradient_descent/stochastic_gradient_descent.md)
   * [Adam](deep_learning/gradient_descent/adam.md)
   * [Momentum](deep_learning/gradient_descent/momentum.md)
   * [NAG](deep_learning/gradient_descent/nag.md)
