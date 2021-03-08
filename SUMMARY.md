@@ -43,7 +43,7 @@
   * [MAE](deep_learning/metrics/mae.md)
   * [RMSE](deep_learning/metrics/rmse.md)
   * [兰德指数RI](deep_learning/metrics/rand_index.md)
-  * [基尼指数](deep_learning/metrics/ji-ni-zhi-shu.md)
+  * [基尼指数](deep_learning/metrics/gini_index.md)
   * [互信息](deep_learning/metrics/hu-xin-xi.md)
   * [轮廓系数](deep_learning/metrics/lun-kuo-xi-shu.md)
 * [优化策略](deep_learning/you-hua-ce-lve/README.md)
