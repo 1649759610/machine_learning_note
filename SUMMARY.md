@@ -5,7 +5,7 @@
 ## 数学知识 <a id="mathematics"></a>
 
 * [高等数学](mathematics/futhter_mathematics.md)
-* [线性代数](mathematics/xian-xing-dai-shu.md)
+* [线性代数](mathematics/linear_algebra.md)
 * [概率论](mathematics/gai-lv-lun.md)
 
 ## 机器学习基础 <a id="shen-du-xue-xi-ji-chu"></a>
