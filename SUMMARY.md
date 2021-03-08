@@ -62,7 +62,7 @@
   * [relu](deep_learning/activation_function/relu.md)
 * [损失函数](deep_learning/loss_function/README.md)
   * [KL散度](deep_learning/loss_function/kl_divergence.md)
-  * [平方误差](deep_learning/loss_function/ping-fang-wu-cha.md)
+  * [平方误差](deep_learning/loss_function/mse.md)
   * [交叉熵](deep_learning/loss_function/jiao-cha-shang.md)
 * [模型调优](deep_learning/mo-xing-tiao-you/README.md)
   * [归一化](deep_learning/mo-xing-tiao-you/gui-yi-hua/README.md)
