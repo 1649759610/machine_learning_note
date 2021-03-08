@@ -4,42 +4,19 @@
 
 ## 数学知识 <a id="mathematics"></a>
 
-* [高数](mathematics/gao-shu.md)
 * [高等数学](mathematics/futhter_mathematics.md)
-* [线性代数](mathematics/xian-xing-dai-shu.md)
 * [线性代数](mathematics/linear_algebra.md)
-* [概率论](mathematics/gai-lv-lun.md)
 * [概率论](mathematics/probability_theory.md)
-
-## 自然语言处理
 
 ## 机器学习基础 <a id="machine_learning"></a>
 
-* [Untitled](machine_learning/untitled.md)
-* [基础知识](machine_learning/basic_concepts.md)
-
-## 计算机视觉
-
-* [过拟合与欠拟合](ji-suan-ji-shi-jue/over_and_under_fitting.md)
-* [Untitled](ji-suan-ji-shi-jue/untitled/README.md)
-  * [方差与偏差](ji-suan-ji-shi-jue/untitled/variance_and_bias.md)
-
-## 计算性能
-
-* [线性回归](ji-suan-xing-neng/linear_regression.md)
-* [Untitled](ji-suan-xing-neng/untitled.md)
-* [逻辑回归](ji-suan-xing-neng/logitstic.md)
-
-## 其他
-
-* [softmax](qi-ta/softmax.md)
-* [Untitled](qi-ta/untitled.md)
-* [奇异值分解](qi-ta/svd.md)
-
-## 深度学习基础
-
-* [主成分分析](shen-du-xue-xi-ji-chu/pca.md)
-* [Untitled](shen-du-xue-xi-ji-chu/untitled.md)
+* [基础知识](machine_learning/basic_concepts/README.md)
+  * [过拟合与欠拟合](machine_learning/basic_concepts/over_and_under_fitting.md)
+* [线性回归](machine_learning/linear_regression.md)
+* [逻辑回归](machine_learning/logitstic.md)
+* [softmax](machine_learning/softmax.md)
+* [奇异值分解](machine_learning/svd.md)
+* [主成分分析](machine_learning/pca.md)
 
 ## 深度学习基础 <a id="deep_learning"></a>
 
@@ -123,4 +100,8 @@
 ## 对抗生成网络 <a id="gan"></a>
 
 * [TODO](gan/untitled.md)
+
+## 计算性能 <a id="computing_performance"></a>
+
+* [TODO](computing_performance/untitled.md)
 
