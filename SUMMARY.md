@@ -80,13 +80,13 @@
 
 * [卷积算子](computer_vision/convolution_kernel.md)
 * [图像增广](computer_vision/image_augmentation.md)
-* [卷积神经网络](computer_vision/untitled/README.md)
-  * [卷积](computer_vision/untitled/juan-ji-1.md)
-  * [池化](computer_vision/untitled/chi-hua.md)
-  * [卷积核](computer_vision/untitled/juan-ji-he.md)
-  * [感受野](computer_vision/untitled/gan-shou-ye.md)
-  * [Padding](computer_vision/untitled/padding.md)
-  * [Stride](computer_vision/untitled/stride.md)
+* [卷积神经网络](computer_vision/convolution_network/README.md)
+  * [卷积](computer_vision/convolution_network/juan-ji-1.md)
+  * [池化](computer_vision/convolution_network/chi-hua.md)
+  * [卷积核](computer_vision/convolution_network/juan-ji-he.md)
+  * [感受野](computer_vision/convolution_network/gan-shou-ye.md)
+  * [Padding](computer_vision/convolution_network/padding.md)
+  * [Stride](computer_vision/convolution_network/stride.md)
 
 ## 自然语言处理
 
