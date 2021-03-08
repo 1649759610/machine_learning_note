@@ -21,8 +21,8 @@
 
 ## 深度学习基础 <a id="deep_learning"></a>
 
-* [基础知识](deep_learning/ji-chu-zhi-shi/README.md)
-  * [神经元](deep_learning/ji-chu-zhi-shi/shen-jing-yuan.md)
+* [基础知识](deep_learning/basic_concepts/README.md)
+  * [神经元](deep_learning/basic_concepts/shen-jing-yuan.md)
 * [距离计算](deep_learning/ju-li-ji-suan/README.md)
   * [Cosine Similarity](deep_learning/ju-li-ji-suan/cosine-similarity.md)
   * [Hamming Distance](deep_learning/ju-li-ji-suan/hamming-distance.md)
