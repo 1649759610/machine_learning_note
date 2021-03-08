@@ -2,11 +2,11 @@
 
 * [机器学习笔记](README.md)
 
-## 数学知识
+## 数学知识 <a id="mathematics"></a>
 
-* [高数](shu-xue-zhi-shi/gao-shu.md)
-* [线性代数](shu-xue-zhi-shi/xian-xing-dai-shu.md)
-* [概率论](shu-xue-zhi-shi/gai-lv-lun.md)
+* [高数](mathematics/gao-shu.md)
+* [线性代数](mathematics/xian-xing-dai-shu.md)
+* [概率论](mathematics/gai-lv-lun.md)
 
 ## 机器学习基础 <a id="shen-du-xue-xi-ji-chu"></a>
 
