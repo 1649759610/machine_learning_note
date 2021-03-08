@@ -76,17 +76,17 @@
     * [L2 Regularization](deep_learning/model_tuning/regularization/l2-regularization.md)
   * [学习率](deep_learning/model_tuning/learning_rate.md)
 
-## 计算机视觉
+## 计算机视觉 <a id="computer_vision"></a>
 
-* [卷积算子](ji-suan-ji-shi-jue/juan-ji-suan-zi.md)
-* [图像增广](ji-suan-ji-shi-jue/tu-xiang-zeng-guang.md)
-* [卷积神经网络](ji-suan-ji-shi-jue/untitled/README.md)
-  * [卷积](ji-suan-ji-shi-jue/untitled/juan-ji-1.md)
-  * [池化](ji-suan-ji-shi-jue/untitled/chi-hua.md)
-  * [卷积核](ji-suan-ji-shi-jue/untitled/juan-ji-he.md)
-  * [感受野](ji-suan-ji-shi-jue/untitled/gan-shou-ye.md)
-  * [Padding](ji-suan-ji-shi-jue/untitled/padding.md)
-  * [Stride](ji-suan-ji-shi-jue/untitled/stride.md)
+* [卷积算子](computer_vision/juan-ji-suan-zi.md)
+* [图像增广](computer_vision/tu-xiang-zeng-guang.md)
+* [卷积神经网络](computer_vision/untitled/README.md)
+  * [卷积](computer_vision/untitled/juan-ji-1.md)
+  * [池化](computer_vision/untitled/chi-hua.md)
+  * [卷积核](computer_vision/untitled/juan-ji-he.md)
+  * [感受野](computer_vision/untitled/gan-shou-ye.md)
+  * [Padding](computer_vision/untitled/padding.md)
+  * [Stride](computer_vision/untitled/stride.md)
 
 ## 自然语言处理
 
