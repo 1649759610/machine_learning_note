@@ -63,7 +63,7 @@
 * [损失函数](deep_learning/loss_function/README.md)
   * [KL散度](deep_learning/loss_function/kl_divergence.md)
   * [平方误差](deep_learning/loss_function/mse.md)
-  * [交叉熵](deep_learning/loss_function/jiao-cha-shang.md)
+  * [交叉熵](deep_learning/loss_function/cross_entropy.md)
 * [模型调优](deep_learning/mo-xing-tiao-you/README.md)
   * [归一化](deep_learning/mo-xing-tiao-you/gui-yi-hua/README.md)
     * [Batch Normalization](deep_learning/mo-xing-tiao-you/gui-yi-hua/batch-normalization.md)
