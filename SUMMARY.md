@@ -44,7 +44,7 @@
   * [RMSE](deep_learning/metrics/rmse.md)
   * [兰德指数RI](deep_learning/metrics/rand_index.md)
   * [基尼指数](deep_learning/metrics/gini_index.md)
-  * [互信息](deep_learning/metrics/hu-xin-xi.md)
+  * [互信息](deep_learning/metrics/mutual_information.md)
   * [轮廓系数](deep_learning/metrics/lun-kuo-xi-shu.md)
 * [优化策略](deep_learning/you-hua-ce-lve/README.md)
   * [梯度下降算法](deep_learning/you-hua-ce-lve/ti-du-xia-jiang-suan-fa.md)
