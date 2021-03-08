@@ -90,9 +90,9 @@
 
 ## 自然语言处理 <a id="natural_language_processing"></a>
 
-* [词表示](natural_language_processing/ci-biao-shi/README.md)
-  * [词向量](natural_language_processing/ci-biao-shi/ci-xiang-liang.md)
-  * [one-hot 编码](natural_language_processing/ci-biao-shi/onehot-bian-ma.md)
+* [词表示](natural_language_processing/word_representation/README.md)
+  * [词向量](natural_language_processing/word_representation/ci-xiang-liang.md)
+  * [one-hot 编码](natural_language_processing/word_representation/onehot-bian-ma.md)
 * [循环神经网 RNN](natural_language_processing/untitled.md)
 * [长短时记忆网络 LSTM](natural_language_processing/chang-duan-shi-ji-yi-wang-luo-lstm/README.md)
   * [双向循环神经网 Bi-LSTM](natural_language_processing/chang-duan-shi-ji-yi-wang-luo-lstm/shuang-xiang-xun-huan-shen-jing-wang-bilstm.md)
