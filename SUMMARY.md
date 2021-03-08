@@ -35,7 +35,7 @@
 * [评估方式](deep_learning/metrics/README.md)
   * [混淆矩阵](deep_learning/metrics/confusion_matrix.md)
   * [AUC](deep_learning/metrics/auc.md)
-  * [PR曲线](deep_learning/metrics/pr-qu-xian.md)
+  * [PR曲线](deep_learning/metrics/pr_curve.md)
   * [召回率和精准率](deep_learning/metrics/zhao-hui-lv-he-jing-zhun-lv.md)
   * [F值](deep_learning/metrics/f-zhi.md)
   * [决定系数R2](deep_learning/metrics/jue-ding-xi-shu-r2.md)
