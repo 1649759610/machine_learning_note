@@ -94,9 +94,9 @@
   * [词向量](natural_language_processing/word_representation/word_embedding.md)
   * [one-hot 编码](natural_language_processing/word_representation/one_hot.md)
 * [循环神经网 RNN](natural_language_processing/rnn.md)
-* [长短时记忆网络 LSTM](natural_language_processing/chang-duan-shi-ji-yi-wang-luo-lstm/README.md)
-  * [双向循环神经网 Bi-LSTM](natural_language_processing/chang-duan-shi-ji-yi-wang-luo-lstm/shuang-xiang-xun-huan-shen-jing-wang-bilstm.md)
-  * [门控单元](natural_language_processing/chang-duan-shi-ji-yi-wang-luo-lstm/men-kong-dan-yuan.md)
+* [长短时记忆网络 LSTM](natural_language_processing/lstm/README.md)
+  * [双向循环神经网 Bi-LSTM](natural_language_processing/lstm/shuang-xiang-xun-huan-shen-jing-wang-bilstm.md)
+  * [门控单元](natural_language_processing/lstm/men-kong-dan-yuan.md)
 
 ## 对抗生成网络
 
