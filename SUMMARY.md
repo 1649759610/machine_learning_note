@@ -8,16 +8,16 @@
 * [线性代数](mathematics/linear_algebra.md)
 * [概率论](mathematics/probability_theory.md)
 
-## 机器学习基础 <a id="shen-du-xue-xi-ji-chu"></a>
+## 机器学习基础 <a id="machine_learning"></a>
 
-* [基础知识](shen-du-xue-xi-ji-chu/ji-chu-zhi-shi/README.md)
-  * [过拟合与欠拟合](shen-du-xue-xi-ji-chu/ji-chu-zhi-shi/guo-ni-he-yu-qian-ni-he.md)
-  * [方差与偏差](shen-du-xue-xi-ji-chu/ji-chu-zhi-shi/fang-cha-yu-pian-cha.md)
-* [线性回归](shen-du-xue-xi-ji-chu/xian-xing-hui-gui.md)
-* [逻辑回归](shen-du-xue-xi-ji-chu/luo-ji-hui-gui.md)
-* [softmax](shen-du-xue-xi-ji-chu/softmax.md)
-* [奇异值分解](shen-du-xue-xi-ji-chu/qi-yi-zhi-fen-jie.md)
-* [主成分分析](shen-du-xue-xi-ji-chu/zhu-cheng-fen-fen-xi.md)
+* [基础知识](machine_learning/ji-chu-zhi-shi/README.md)
+  * [过拟合与欠拟合](machine_learning/ji-chu-zhi-shi/guo-ni-he-yu-qian-ni-he.md)
+  * [方差与偏差](machine_learning/ji-chu-zhi-shi/fang-cha-yu-pian-cha.md)
+* [线性回归](machine_learning/xian-xing-hui-gui.md)
+* [逻辑回归](machine_learning/luo-ji-hui-gui.md)
+* [softmax](machine_learning/softmax.md)
+* [奇异值分解](machine_learning/qi-yi-zhi-fen-jie.md)
+* [主成分分析](machine_learning/zhu-cheng-fen-fen-xi.md)
 
 ## 深度学习基础 <a id="shen-du-xue-xi-ji-chu-1"></a>
 
