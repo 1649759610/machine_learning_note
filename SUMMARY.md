@@ -6,7 +6,7 @@
 
 * [高等数学](mathematics/futhter_mathematics.md)
 * [线性代数](mathematics/linear_algebra.md)
-* [概率论](mathematics/gai-lv-lun.md)
+* [概率论](mathematics/probability_theory.md)
 
 ## 机器学习基础 <a id="shen-du-xue-xi-ji-chu"></a>
 
