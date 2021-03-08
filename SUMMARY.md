@@ -96,17 +96,9 @@
 * [循环神经网 RNN](natural_language_processing/rnn.md)
 * [长短时记忆网络 LSTM](natural_language_processing/lstm/README.md)
   * [双向循环神经网 Bi-LSTM](natural_language_processing/lstm/bi_lstm.md)
-  * [门控循环单元](natural_language_processing/lstm/gru.md)
+* [门控循环单元](natural_language_processing/gru.md)
 
-## 对抗生成网络
+## 对抗生成网络 <a id="gan"></a>
 
-* [TODO](dui-kang-sheng-cheng-wang-luo/untitled.md)
-
-## 强化学习
-
-* [TODO](qiang-hua-xue-xi/untitled.md)
-
-## 迁移学习
-
-* [TODO](qian-yi-xue-xi/untitled.md)
+* [TODO](gan/untitled.md)
 
