@@ -4,7 +4,7 @@
 
 ## 数学知识 <a id="mathematics"></a>
 
-* [高数](mathematics/gao-shu.md)
+* [高等数学](mathematics/futhter_mathematics.md)
 * [线性代数](mathematics/xian-xing-dai-shu.md)
 * [概率论](mathematics/gai-lv-lun.md)
 
