@@ -96,7 +96,6 @@
   * [RNN](natural_language_processing/sequence_model/rnn.md)
   * [LSTM](natural_language_processing/sequence_model/lstm.md)
   * [GRU](natural_language_processing/sequence_model/gru.md)
-* [条件随机场CRF](natural_language_processing/tiao-jian-sui-ji-chang-crf.md)
 
 ## 对抗生成网络 <a id="gan"></a>
 
