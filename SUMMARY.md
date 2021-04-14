@@ -92,10 +92,11 @@
 * [词表示](natural_language_processing/word_representation/README.md)
   * [词向量](natural_language_processing/word_representation/word_embedding.md)
   * [one-hot 编码](natural_language_processing/word_representation/one_hot.md)
-* [循环神经网 RNN](natural_language_processing/rnn.md)
-* [长短时记忆网络 LSTM](natural_language_processing/lstm/README.md)
-  * [双向循环神经网 Bi-LSTM](natural_language_processing/lstm/bi_lstm.md)
-* [门控循环单元](natural_language_processing/gru.md)
+* [序列模型](natural_language_processing/sequence_model/README.md)
+  * [RNN](natural_language_processing/sequence_model/rnn.md)
+  * [LSTM](natural_language_processing/sequence_model/lstm.md)
+  * [GRU](natural_language_processing/sequence_model/gru.md)
+* [条件随机场CRF](natural_language_processing/tiao-jian-sui-ji-chang-crf.md)
 
 ## 对抗生成网络 <a id="gan"></a>
 
