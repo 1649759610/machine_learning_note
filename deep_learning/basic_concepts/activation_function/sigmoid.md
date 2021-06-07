@@ -6,7 +6,7 @@
 
 这说明sigmoid函数倾向将输入数值"挤压"到1或者0。
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
 sigmoid函数数学表达式是这样的：
 
@@ -38,7 +38,7 @@ sigmoid函数将输入数值映射到0和1之间，因此可以控制信息的�
 
 > **备注**：有着NLP背景的同学应该对此比较熟悉，长短时记忆网络LSTM中的**门单元**用的就是这个原理。
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
 #### 3. 整条曲线比较平滑，sigmoid函数是全线条可微的。
 
