@@ -18,7 +18,7 @@
 * [奇异值分解](machine_learning/svd.md)
 * [主成分分析](machine_learning/pca.md)
 
-## 深度学习知识篇 <a id="deep_learning"></a>
+## 深度学习基础篇 <a id="deep_learning"></a>
 
 * [基础知识](deep_learning/basic_concepts/README.md)
   * [损失函数](deep_learning/basic_concepts/loss_function/README.md)
@@ -77,6 +77,11 @@
     * [L1Regularization](deep_learning/model_tuning/regularization/l1regularization.md)
     * [L2 Regularization](deep_learning/model_tuning/regularization/l2-regularization.md)
 
+## 深度学习进阶篇 <a id="deep_learning_advanced"></a>
+
+* [迁移学习](deep_learning_advanced/qian-yi-xue-xi.md)
+* [对抗神经网络](deep_learning_advanced/untitled.md)
+
 ## 深度学习应用篇 <a id="natural_language_processing"></a>
 
 * [自然语言处理](natural_language_processing/zi-ran-yu-yan-chu-li/README.md)
@@ -97,10 +102,6 @@
     * [感受野](natural_language_processing/ji-suan-ji-shi-jue/convolution_network/receptive_field.md)
     * [Padding](natural_language_processing/ji-suan-ji-shi-jue/convolution_network/padding.md)
     * [Stride](natural_language_processing/ji-suan-ji-shi-jue/convolution_network/stride.md)
-
-## 对抗生成网络 <a id="gan"></a>
-
-* [TODO](gan/untitled.md)
 
 ## 产业实践篇 <a id="industry_practice"></a>
 
